@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Gustavo Henrique Alves Rocha
+gustavo.henrikear@gmail.com
+=======
 Rodrigo Santos - royalstar123.333@gmail.com
+>>>>>>> c95d1dd4f2d6ec891e9d3e5b8dc3bfb8bfaea266
